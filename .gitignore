@@ -1,0 +1,18 @@
+# Data (never commit)
+data/
+*.csv
+
+# Models / binaries
+*.pt
+*.pkl
+*.joblib
+
+# Python noise
+__pycache__/
+*.pyc
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
